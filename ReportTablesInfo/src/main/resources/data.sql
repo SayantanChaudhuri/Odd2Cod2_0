@@ -1,0 +1,2 @@
+INSERT INTO TABLE_DETAILS ("ID","DB_NAME","DB_TYPE","MASKED_FIELDS","TABLE_NAME") VALUES
+(1, 'employeedb', 'MYSQL', 'DEPT_NO', 'departments');
